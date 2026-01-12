@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">121768802006-tkp7mmpmq8bcia63co19k73op3ckn2ru.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">121768802006</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnLs39yqFSKfVc_ly8jxfRWOF7jz3kSyw</string>
+    <string name="google_app_id" translatable="false">1:121768802006:android:238d7fd16d7f24d0317b77</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnLs39yqFSKfVc_ly8jxfRWOF7jz3kSyw</string>
+    <string name="google_storage_bucket" translatable="false">wechat-a6be6.firebasestorage.app</string>
+    <string name="project_id" translatable="false">wechat-a6be6</string>
+</resources>
